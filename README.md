@@ -1,3 +1,2 @@
-# Data-Science
-test
-Zmiana v1
+# GoLang projects
+Hi there!
